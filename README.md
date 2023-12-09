@@ -11,17 +11,17 @@
 
 ### Top Repositories
 
-<a href="https://github.com/mingo99/CU33" class="repo-card">
+<a href="https://github.com/mingo99/CU33">
     <img align="center" src="https://github-readme-stats-mingo.vercel.app/api/pin/?username=mingo99&repo=CU33&theme=transparent" />
 </a>
 
-<a href="https://github.com/mingo99/CU11" class="repo-card">
+<a href="https://github.com/mingo99/CU11">
     <img align="center" src="https://github-readme-stats-mingo.vercel.app/api/pin/?username=mingo99&repo=CU11&theme=transparent" />
 </a>
 
-<a href="https://github.com/mingo99/AXI-Specification" class="repo-card">
+<a href="https://github.com/mingo99/AXI-Specification">
   <img align="center" src="https://github-readme-stats-mingo.vercel.app/api/pin/?username=mingo99&repo=AXI-Specification&theme=transparent" />
 </a>
-<a href="https://github.com/mingo99/verilog-autoinst.nvim" class="repo-card">
+<a href="https://github.com/mingo99/verilog-autoinst.nvim">
   <img align="center" src="https://github-readme-stats-mingo.vercel.app/api/pin/?username=mingo99&repo=verilog-autoinst.nvim&theme=transparent" />
 </a>
