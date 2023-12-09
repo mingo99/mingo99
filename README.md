@@ -11,13 +11,6 @@
 
 ### Top Repositories
 
-<style>
-    a.repo-card {
-        display: inline-block;
-        margin-bottom: 5px;  
-    }
-</style>
-
 <a href="https://github.com/mingo99/CU33" class="repo-card">
     <img align="center" src="https://github-readme-stats-mingo.vercel.app/api/pin/?username=mingo99&repo=CU33&theme=transparent" />
 </a>
