@@ -7,14 +7,6 @@
 
 ### Top Repositories
 
-<a href="https://github.com/mingo99/CU33">
-    <img align="center" src="https://github-readme-stats-mingo.vercel.app/api/pin/?username=mingo99&repo=CU33&theme=transparent" />
-</a>
-
-<a href="https://github.com/mingo99/CU11">
-    <img align="center" src="https://github-readme-stats-mingo.vercel.app/api/pin/?username=mingo99&repo=CU11&theme=transparent" />
-</a>
-
 <a href="https://github.com/mingo99/AXI-Specification">
   <img align="center" src="https://github-readme-stats-mingo.vercel.app/api/pin/?username=mingo99&repo=AXI-Specification&theme=transparent" />
 </a>
